@@ -19,7 +19,7 @@ A Tampermonkey/Greasemonkey userscript that adds quick-access buttons for Keepa 
 
 2. Click the raw script link below (or copy the source) and confirm the installation in the manager.
 
-[📥 Install Script (raw)](https://github.com/llllIIIIlllIIl/amazon-price-history-button/raw/main/amazon-price-history.user.js](https://github.com/llllIIIIlllIIl/Amazon-Price-History-Button-Userscript/raw/refs/heads/main/amazon-price-history.user.js)
+[📥 Install Script (raw)](https://github.com/llllIIIIlllIIl/Amazon-Price-History-Button-Userscript/raw/refs/heads/main/amazon-price-history.user.js/)
 
 ## Supported Domains
 
